@@ -4,33 +4,48 @@
 </div>
 <h3 align="center">Aspiring Software Engineer | Passionate about Web Development & Problem Solving</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yaraibrahim&label=Profile%20views&color=0e75b6&style=flat" alt="yaraibrahim" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=yaraibrahim&label=Profile%20views&color=0e75b6&style=flat" alt="yaraibrahim" /> 
+</p>
 
+---
+
+### 🚀 About Me
 - 🌱 I’m currently learning **Python & Flutter**  
 - 💻 Skilled in **HTML, CSS, C++, OOP for C++**  
 - 🎨 Familiar with **Photoshop basics**  
 - 🚀 Interested in **Web Development, Mobile Development, and AI**  
 
-- 📫 How to reach me: **your.email@example.com**  
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-</p>
+### 📫 Reach Me
+[![Gmail Badge](https://img.shields.io/badge/-engyarabikhatro2007@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:engyarabikhatro2007@gmail.com)  
+[![Telegram Badge](https://img.shields.io/badge/-YaRooSh20-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YaRooSh20)  
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### 🛠️ Languages and Tools
 <p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaraibrahim&show_icons=true&locale=en&layout=compact" alt="yaraibrahim" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaraibrahim&show_icons=true&locale=en" alt="yaraibrahim" /></p>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yaraibrahim&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="yaraibrahim" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaraibrahim&" alt="yaraibrahim" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yaraibrahim&show_icons=true&locale=en&theme=tokyonight" alt="yaraibrahim" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaraibrahim&theme=tokyonight" alt="yaraibrahim" />
+</p>
